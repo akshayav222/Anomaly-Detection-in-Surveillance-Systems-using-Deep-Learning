@@ -42,7 +42,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 ## Dataset
-This project uses the **[UCF Crime Trimmed-Dataset](https://www.kaggle.com/datasets/lokesh2610/trim-data)** from Kaggle, a subset of the UCF Crime dataset which contains labeled surveillance videos of normal and anomalous events. The dataset should be downloaded from [Kaggle](https://www.kaggle.com/) and stored in your Google Drive for use in Google Colab.
+This project uses the **[UCF Crime Trimed-Dataset](https://www.kaggle.com/datasets/lokesh2610/trim-data)** from Kaggle, a subset of the UCF Crime dataset which contains labeled surveillance videos of normal and anomalous events. The dataset should be downloaded from [Kaggle](https://www.kaggle.com/) and stored in your Google Drive for use in Google Colab.
 
 ## Model Architecture
 
