@@ -31,12 +31,12 @@ This project focuses on **Anomaly Detection in Surveillance Systems** using a 3D
 ```
 # Installation & Setup
 
-# 1. Install the required dependencies by running:
+### 1. Install the required dependencies by running:
 ```python
 pip install -r requirements.txt
 ```
 
-# 2. If you're using Google Colab, mount your Google Drive to access datasets and save models:
+### 2. If you're using Google Colab, mount your Google Drive to access datasets and save models:
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
